@@ -1,0 +1,517 @@
+/cygdrive/e/share/contiki/core/dev/leds.h:95: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/lib/ringbuf.h:134: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/simple-udp.h:8: warning: missing title after \defgroup simple-udp
+/cygdrive/e/share/contiki/core/net/uip6.c:2226: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/mac/frame802154.h:171: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/rime/broadcast-announcement.h:7: warning: missing title after \defgroup rimebroadcastannouncement
+/cygdrive/e/share/contiki/core/net/rime/polite-announcement.h:7: warning: missing title after \defgroup rimepoliteannouncement
+/cygdrive/e/share/contiki/core/net/rpl/rpl-dag.c:772: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl-icmp6.c:769: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl-of-etx.c:215: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl-of0.c:135: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl-timers.c:235: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl.c:218: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/sys/rtimer.c:110: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/sys/subprocess.h:72: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/codeprop-otf.c:525: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:1364: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:44: Warning: include file hal/micro/cortexm3/token-manufacturing.h not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:102: Warning: include file hal/micro/cortexm3/token-manufacturing.h not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-lcd-interface/raven-lcd.c:496: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-lcd-interface/raven-lcd.c:489: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/platform/avr-ravenusb/rng.c:25: warning: preprocessing issue while doing constant expression evaluation: syntax error
+/cygdrive/e/share/contiki/platform/cooja/dev/rs232.h:120: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001-gcr.c:791: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001.c:777: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:80: warning: end of file while inside a group
+
+/cygdrive/e/share/contiki/core/sys/lc.h:55: warning: the name `lc.h' supplied as the second argument in the \file statement matches the following input files:
+   /cygdrive/e/share/contiki/core/sys/lc.h
+   /cygdrive/e/share/contiki/cpu/6502/sys/lc.h
+Please use a more specific name by including a (larger) part of the path!
+/cygdrive/e/share/contiki/cpu/mc1322x/lib/printf.c:37: warning: the name `printf-stdarg.c' supplied as the second argument in the \file statement is not an input file
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/error.h:2: warning: the name `error.h' supplied as the second argument in the \file statement matches the following input files:
+   /cygdrive/e/share/contiki/cpu/6502/lib/error.h
+   /cygdrive/e/share/contiki/cpu/stm32w108/hal/error.h
+Please use a more specific name by including a (larger) part of the path!
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/mems.h:1: warning: the name `mems.h' supplied as the second argument in the \file statement matches the following input files:
+   /cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/mems.h
+   /cygdrive/e/share/contiki/platform/mb851/dev/mems.h
+   /cygdrive/e/share/contiki/platform/mbxxx/dev/mems.h
+Please use a more specific name by including a (larger) part of the path!
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/micro-common.h:1: warning: the name `micro-common.h' supplied as the second argument in the \file statement matches the following input files:
+   /cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/micro-common.h
+   /cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h
+Please use a more specific name by including a (larger) part of the path!
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/adc.c:1: warning: the name `adc.c' supplied as the second argument in the \file statement matches the following input files:
+   /cygdrive/e/share/contiki/cpu/cc2430/dev/adc.c
+   /cygdrive/e/share/contiki/cpu/mc1322x/lib/adc.c
+   /cygdrive/e/share/contiki/cpu/mc1322x/tests/adc.c
+   /cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/adc.c
+   /cygdrive/e/share/contiki/platform/avr-ravenlcd/adc.c
+   /cygdrive/e/share/contiki/platform/iris/dev/adc.c
+   /cygdrive/e/share/contiki/platform/micaz/dev/adc.c
+   /cygdrive/e/share/contiki/platform/msb430/dev/adc.c
+Please use a more specific name by including a (larger) part of the path!
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mems.c:1: warning: the name `mems.c' supplied as the second argument in the \file statement matches the following input files:
+   /cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mems.c
+   /cygdrive/e/share/contiki/platform/mb851/dev/mems.c
+   /cygdrive/e/share/contiki/platform/mbxxx/dev/mems.c
+Please use a more specific name by including a (larger) part of the path!
+/cygdrive/e/share/contiki/platform/msb430/dev/msb430-uart1.c:44: warning: the name `ScatterWeb.Uart.c' supplied as the second argument in the \file statement is not an input file
+/cygdrive/e/share/contiki/platform/msb430/dev/msb430-uart1.h:55: warning: the name `Header' supplied as the second argument in the \file statement is not an input file
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:494: warning: the name `lanc111.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/cygdrive/e/share/contiki/core/net/rime/polite-announcement.c:152: warning: no matching file member found for 
+static void send_timer(void *ptr)Possible candidates:
+  static void send_timer(void *ptr)
+  static void send_timer(void *ptr)
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl-of0.c:49: warning: no matching file member found for 
+static void reset(rpl_dag *)Possible candidates:
+  static void reset(rpl_dag_t *)
+  void reset(struct ftdi_context *ftdic, const struct layout *l)
+  static uint8_t reset(void)
+  static uint8_t reset(void)
+
+/cygdrive/e/share/contiki/core/net/rpl/rpl-of0.c:69: warning: no matching file member found for 
+static void reset(rpl_dag *dag)Possible candidates:
+  static void reset(rpl_dag_t *)
+  void reset(struct ftdi_context *ftdic, const struct layout *l)
+  static uint8_t reset(void)
+  static uint8_t reset(void)
+
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:1121: warning: documented function `NicRxLanc' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/params.c:81: warning: documented function `uint8_t default_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/params.c:82: warning: documented function `uint8_t default_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/params.c:108: warning: documented function `uint8_t eemem_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/params.c:109: warning: documented function `uint8_t eemem_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/params.c:113: warning: documented function `uint8_t eemem_channel' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:77: warning: documented function `static const char proc_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:78: warning: documented function `static const char sensor_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:79: warning: documented function `static const char adrs_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:80: warning: documented function `static const char nbrs_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:81: warning: documented function `static const char rtes_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:94: warning: no matching file member found for 
+static const char running()Possible candidates:
+  static struct mtarch_thread * running
+  static struct mtarch_thread * running
+  static const char running[]
+
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:95: warning: documented function `static const char called' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:291: warning: documented function `static const char httpd_cgi_addrf' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:292: warning: documented function `static const char httpd_cgi_addrb' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-cgi.c:293: warning: documented function `static const char httpd_cgi_addrn' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:8: warning: documented function `uint8_t default_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:9: warning: documented function `uint8_t default_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:11: warning: documented function `uint8_t eemem_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:12: warning: documented function `uint8_t eemem_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:70: warning: documented function `const char data_favicon_png' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:91: warning: documented function `const char data_files_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:98: warning: documented function `const char data_footer_html' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:182: warning: documented function `const char data_header_html' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:314: warning: documented function `const char data_process_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:321: warning: documented function `const char data_robots_txt' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:333: warning: documented function `const char data_sensor_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:357: warning: documented function `const char data_status_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:567: warning: documented function `const char data_style_css' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:594: warning: documented function `const char data_tcp_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:618: warning: documented function `const char data_upload_html' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:633: warning: documented function `struct httpd_fsdata_file file_favicon_png' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:634: warning: documented function `struct httpd_fsdata_file file_files_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:635: warning: documented function `struct httpd_fsdata_file file_footer_html' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:636: warning: documented function `struct httpd_fsdata_file file_header_html' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:638: warning: documented function `struct httpd_fsdata_file file_process_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:639: warning: documented function `struct httpd_fsdata_file file_robots_txt' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:640: warning: documented function `struct httpd_fsdata_file file_sensor_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:641: warning: documented function `struct httpd_fsdata_file file_status_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:642: warning: documented function `struct httpd_fsdata_file file_style_css' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:643: warning: documented function `struct httpd_fsdata_file file_tcp_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fsdata.c:644: warning: documented function `struct httpd_fsdata_file file_upload_html' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:293: warning: documented function `const char httpd_content' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:294: warning: documented function `const char httpd_crlf' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:312: warning: documented function `const char httpd_mime_htm' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:313: warning: documented function `const char httpd_mime_css' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:314: warning: documented function `const char httpd_mime_png' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:315: warning: documented function `const char httpd_mime_gif' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:316: warning: documented function `const char httpd_mime_jpg' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:317: warning: documented function `const char httpd_mime_txt' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:318: warning: documented function `const char httpd_mime_bin' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:319: warning: documented function `const char httpd_jpg' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:320: warning: documented function `const char httpd_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:355: warning: documented function `const char httpd_404fn' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:356: warning: documented function `const char httpd_404notf' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:357: warning: documented function `const char httpd_200ok' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd.c:387: warning: documented function `const char httpd_ref' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fs/makefsdata.h:5: warning: documented function `uint8_t default_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fs/makefsdata.h:6: warning: documented function `uint8_t default_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fs/makefsdata.h:8: warning: documented function `uint8_t eemem_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-atmega128rfa1/apps/raven-webserver/httpd-fs/makefsdata.h:9: warning: documented function `uint8_t eemem_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/contiki-raven-main.c:166: warning: documented function `uint8_t default_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/contiki-raven-main.c:171: warning: documented function `uint8_t default_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/contiki-raven-main.c:253: warning: documented function `uint8_t eemem_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/contiki-raven-main.c:258: warning: documented function `uint8_t eemem_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:76: warning: documented function `static const char proc_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:77: warning: documented function `static const char sensor_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:78: warning: documented function `static const char adrs_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:79: warning: documented function `static const char nbrs_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:80: warning: documented function `static const char rtes_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:93: warning: no matching file member found for 
+static const char running()Possible candidates:
+  static struct mtarch_thread * running
+  static struct mtarch_thread * running
+  static const char running[]
+
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:94: warning: documented function `static const char called' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:292: warning: documented function `static const char httpd_cgi_addrf' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:293: warning: documented function `static const char httpd_cgi_addrb' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-cgi.c:294: warning: documented function `static const char httpd_cgi_addrn' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:293: warning: documented function `const char httpd_content' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:294: warning: documented function `const char httpd_crlf' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:312: warning: documented function `const char httpd_mime_htm' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:313: warning: documented function `const char httpd_mime_css' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:314: warning: documented function `const char httpd_mime_png' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:315: warning: documented function `const char httpd_mime_gif' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:316: warning: documented function `const char httpd_mime_jpg' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:317: warning: documented function `const char httpd_mime_txt' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:318: warning: documented function `const char httpd_mime_bin' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:319: warning: documented function `const char httpd_jpg' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:320: warning: documented function `const char httpd_shtml' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:355: warning: documented function `const char httpd_404fn' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:356: warning: documented function `const char httpd_404notf' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:357: warning: documented function `const char httpd_200ok' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd.c:387: warning: documented function `const char httpd_ref' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-fs/makefsdata.h:5: warning: documented function `uint8_t default_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-fs/makefsdata.h:6: warning: documented function `uint8_t default_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-fs/makefsdata.h:8: warning: documented function `uint8_t eemem_server_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-raven/apps/raven-webserver/httpd-fs/makefsdata.h:9: warning: documented function `uint8_t eemem_domain_name' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenlcd/beep.c:136: warning: documented function `static uint8_t axel' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenlcd/beep.c:137: warning: documented function `static uint8_t sandman1' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenlcd/beep.c:138: warning: documented function `static uint8_t sandman2' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenlcd/beep.c:139: warning: documented function `static uint8_t furelise' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenusb/cdc_task.c:121: warning: documented function `const char txtenthsdigit' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenusb/httpd-simple-avr.c:244: warning: documented function `char TOP1' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenusb/httpd-simple-avr.c:245: warning: documented function `char TOP2' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenusb/httpd-simple-avr.c:246: warning: documented function `char BOTTOM' was not declared or defined.
+/cygdrive/e/share/contiki/platform/avr-ravenusb/httpd-simple-avr.c:322: warning: documented function `char NOT_FOUND' was not declared or defined.
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001.c:160: warning: no matching file member found for 
+static int prepare_packet(const void *data, unsigned short len)Possible candidates:
+  static int prepare_packet(const void *data, unsigned short len)
+  static int prepare_packet(const void *data, unsigned short len)
+
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001.c:161: warning: no matching file member found for 
+static int transmit_packet(unsigned short len)Possible candidates:
+  static int transmit_packet(unsigned short len)
+  static int transmit_packet(unsigned short len)
+
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001.c:162: warning: no matching file member found for 
+static int receiving_packet(void)Possible candidates:
+  static int receiving_packet(void)
+  static int receiving_packet(void)
+  static int receiving_packet(void)
+
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001.c:163: warning: no matching file member found for 
+static int pending_packet(void)Possible candidates:
+  static int pending_packet(void)
+  static int pending_packet(void)
+  static int pending_packet(void)
+  static int pending_packet(void)
+
+/cygdrive/e/share/contiki/platform/esb/dev/tr1001.c:164: warning: no matching file member found for 
+static int channel_clear(void)Possible candidates:
+  static int channel_clear(void)
+  static int channel_clear(void)
+  static int channel_clear(void)
+  static int channel_clear(void)
+
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:189: warning: explicit link request to 'SLEEPMODE_WAKETIMER' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:111: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:130: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:67: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/core/net/neighbor-info.h:67: warning: argument 'status' of command @param is not found in the argument list of neighbor_info_packet_received(void)
+/cygdrive/e/share/contiki/core/net/neighbor-info.h:67: warning: argument 'numtx' of command @param is not found in the argument list of neighbor_info_packet_received(void)
+/cygdrive/e/share/contiki/core/net/neighbor-info.h:67: warning: argument 'status' of command @param is not found in the argument list of neighbor_info_packet_received(void)
+/cygdrive/e/share/contiki/core/net/neighbor-info.h:67: warning: argument 'numtx' of command @param is not found in the argument list of neighbor_info_packet_received(void)
+/cygdrive/e/share/contiki/core/net/uip.h:1806: warning: unable to resolve reference to `uip_buf' for \ref command
+/cygdrive/e/share/contiki/core/sys/cc.h:132: warning: explicit link request to 'defined' could not be resolved
+/cygdrive/e/share/contiki/platform/mbxxx/dev/leds-arch.c:70: warning: argument 'io' of command @param is not found in the argument list of halGpioGetPxIN(int32u gpio)
+/cygdrive/e/share/contiki/platform/mbxxx/dev/leds-arch.c:70: warning: The following parameters of halGpioGetPxIN(int32u gpio) are not documented:
+  parameter 'gpio'
+/cygdrive/e/share/contiki/platform/mbxxx/dev/leds-arch.c:53: warning: argument 'io' of command @param is not found in the argument list of halGpioGetPxOUT(int32u gpio)
+/cygdrive/e/share/contiki/platform/mbxxx/dev/leds-arch.c:53: warning: The following parameters of halGpioGetPxOUT(int32u gpio) are not documented:
+  parameter 'gpio'
+/cygdrive/e/share/contiki/cpu/cc2430/dev/bus.c:60: warning: argument 'buffer' of command @param is not found in the argument list of flash_read(uint8_t *buf, uint32_t address, uint8_t size)
+/cygdrive/e/share/contiki/cpu/cc2430/dev/bus.c:60: warning: The following parameters of flash_read(uint8_t *buf, uint32_t address, uint8_t size) are not documented:
+  parameter 'buf'
+/cygdrive/e/share/contiki/cpu/cc2430/dev/bus.c:60: warning: argument 'buffer' of command @param is not found in the argument list of flash_read(uint8_t *buf, uint32_t address, uint8_t size)
+/cygdrive/e/share/contiki/cpu/cc2430/dev/bus.c:60: warning: The following parameters of flash_read(uint8_t *buf, uint32_t address, uint8_t size) are not documented:
+  parameter 'buf'
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:473: warning: argument 'param' of command @param is not found in the argument list of cc2430_rf_address_decoder_mode(rf_address_mode_t mode)
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:473: warning: The following parameters of cc2430_rf_address_decoder_mode(rf_address_mode_t mode) are not documented:
+  parameter 'mode'
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:443: warning: argument 'adde' of command @param is not found in the argument list of cc2430_rf_set_addr(unsigned pan, unsigned addr, const uint8_t *ieee_addr)
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:443: warning: The following parameters of cc2430_rf_set_addr(unsigned pan, unsigned addr, const uint8_t *ieee_addr) are not documented:
+  parameter 'addr'
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:473: warning: argument 'param' of command @param is not found in the argument list of cc2430_rf_address_decoder_mode(rf_address_mode_t mode)
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:473: warning: The following parameters of cc2430_rf_address_decoder_mode(rf_address_mode_t mode) are not documented:
+  parameter 'mode'
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:443: warning: argument 'adde' of command @param is not found in the argument list of cc2430_rf_set_addr(unsigned pan, unsigned addr, const uint8_t *ieee_addr)
+/cygdrive/e/share/contiki/cpu/cc2430/dev/cc2430_rf.c:443: warning: The following parameters of cc2430_rf_set_addr(unsigned pan, unsigned addr, const uint8_t *ieee_addr) are not documented:
+  parameter 'addr'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/uart.h:24: warning: The following parameters of uartInit(int32u baudrate, int8u databits, SerialParity parity, int8u stopbits) are not documented:
+  parameter 'stopbits'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/uart.h:24: warning: The following parameters of uartInit(int32u baudrate, int8u databits, SerialParity parity, int8u stopbits) are not documented:
+  parameter 'stopbits'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/nvm.h:3: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/nvm.h:4: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/simplemac/include/phy-library.h:311: warning: explicit link request to 'ST_SUCCESS' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/simplemac/include/phy-library.h:313: warning: explicit link request to 'ST_PHY_ACK_RECEIVED' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/simplemac/include/phy-library.h:314: warning: explicit link request to 'ST_MAC_NO_ACK_RECEIVED' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/simplemac/include/phy-library.h:315: warning: explicit link request to 'ST_PHY_TX_CCA_FAIL' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/simplemac/include/phy-library.h:317: warning: explicit link request to 'ST_PHY_TX_UNDERFLOW' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/simplemac/include/phy-library.h:319: warning: explicit link request to 'ST_PHY_TX_INCOMPLETE' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:111: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:130: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:111: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:130: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:67: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:97: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:111: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:130: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:83: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:86: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: argument '_ADDRESS' of command @param is not found in the argument list of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...)
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:93: warning: explicit link request to 'name::::_ADDRESS' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:102: warning: explicit link request to '_TYPE' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:110: warning: explicit link request to 'name' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: The following parameters of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...) are not documented:
+  parameter 'creator'
+  parameter 'iscnt'
+  parameter 'isidx'
+  parameter '...'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:83: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:86: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: argument '_ADDRESS' of command @param is not found in the argument list of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...)
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:93: warning: explicit link request to 'name::::_ADDRESS' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:102: warning: explicit link request to '_TYPE' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:110: warning: explicit link request to 'name' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: The following parameters of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...) are not documented:
+  parameter 'creator'
+  parameter 'iscnt'
+  parameter 'isidx'
+  parameter '...'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:83: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:86: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: argument '_ADDRESS' of command @param is not found in the argument list of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...)
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:93: warning: explicit link request to 'name::::_ADDRESS' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:102: warning: explicit link request to '_TYPE' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:110: warning: explicit link request to 'name' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: The following parameters of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...) are not documented:
+  parameter 'creator'
+  parameter 'iscnt'
+  parameter 'isidx'
+  parameter '...'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:18: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:83: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:86: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: argument '_ADDRESS' of command @param is not found in the argument list of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...)
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:93: warning: explicit link request to 'name::::_ADDRESS' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:102: warning: explicit link request to '_TYPE' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:110: warning: explicit link request to 'name' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:80: warning: The following parameters of TOKEN_MFG(name, creator, iscnt, isidx, type, arraysize,...) are not documented:
+  parameter 'creator'
+  parameter 'iscnt'
+  parameter 'isidx'
+  parameter '...'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:67: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:97: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:111: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/mfg-token.h:130: warning: Found unknown command `\description'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:189: warning: explicit link request to 'SLEEPMODE_WAKETIMER' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:189: warning: explicit link request to 'SLEEPMODE_WAKETIMER' could not be resolved
+/cygdrive/e/share/contiki/platform/cooja/contiki-cooja-main.c:352: warning: argument 'start' of command @param is not found in the argument list of Java_se_sics_cooja_corecomm_CLASSNAME_getMemory(JNIEnv *env, jobject obj, jint rel_addr, jint length, jbyteArray mem_arr)
+/cygdrive/e/share/contiki/platform/cooja/contiki-cooja-main.c:352: warning: The following parameters of Java_se_sics_cooja_corecomm_CLASSNAME_getMemory(JNIEnv *env, jobject obj, jint rel_addr, jint length, jbyteArray mem_arr) are not documented:
+  parameter 'env'
+  parameter 'obj'
+  parameter 'rel_addr'
+  parameter 'mem_arr'
+/cygdrive/e/share/contiki/platform/cooja/contiki-cooja-main.c:378: warning: argument 'start' of command @param is not found in the argument list of Java_se_sics_cooja_corecomm_CLASSNAME_setMemory(JNIEnv *env, jobject obj, jint rel_addr, jint length, jbyteArray mem_arr)
+/cygdrive/e/share/contiki/platform/cooja/contiki-cooja-main.c:378: warning: The following parameters of Java_se_sics_cooja_corecomm_CLASSNAME_setMemory(JNIEnv *env, jobject obj, jint rel_addr, jint length, jbyteArray mem_arr) are not documented:
+  parameter 'env'
+  parameter 'obj'
+  parameter 'rel_addr'
+/cygdrive/e/share/contiki/platform/netsim/net/ethernode.c:146: warning: argument 'sid' of command @param is not found in the argument list of ethernode_init(int port)
+/cygdrive/e/share/contiki/platform/netsim/net/ethernode.c:146: warning: The following parameters of ethernode_init(int port) are not documented:
+  parameter 'port'
+/cygdrive/e/share/contiki/core/ctk/ctk-draw.h:328: warning: Found unknown command `\define'
+/cygdrive/e/share/contiki/core/ctk/ctk-draw.h:328: warning: explicit link request to 'define' could not be resolved
+/cygdrive/e/share/contiki/core/ctk/ctk-draw.h:140: warning: argument 'clipy1' of command @param is not found in the argument list of ctk_draw_clear(unsigned char y1, unsigned char y2)
+/cygdrive/e/share/contiki/core/ctk/ctk-draw.h:140: warning: argument 'clipy2' of command @param is not found in the argument list of ctk_draw_clear(unsigned char y1, unsigned char y2)
+/cygdrive/e/share/contiki/core/lib/crc16.h:76: warning: argument 'crc' of command @param is not found in the argument list of crc16_data(const unsigned char *data, int datalen, unsigned short acc)
+/cygdrive/e/share/contiki/core/lib/crc16.h:76: warning: The following parameters of crc16_data(const unsigned char *data, int datalen, unsigned short acc) are not documented:
+  parameter 'acc'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-arch-otf.h:73: warning: The following parameters of elfloader_arch_relocate(int input_fd, struct elfloader_output *output, unsigned int sectionoffset, char *sectionaddr, struct elf32_rela *rela, char *addr) are not documented:
+  parameter 'input_fd'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:171: warning: argument 'input' of command @param is not found in the argument list of elfloader_allocate_segment(struct elfloader_output *output, unsigned int type, int size)
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:171: warning: The following parameters of elfloader_allocate_segment(struct elfloader_output *output, unsigned int type, int size) are not documented:
+  parameter 'output'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:197: warning: argument 'input' of command @param is not found in the argument list of elfloader_end_segment(struct elfloader_output *output)
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:197: warning: The following parameters of elfloader_end_segment(struct elfloader_output *output) are not documented:
+  parameter 'output'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:260: warning: argument 'input' of command @param is not found in the argument list of elfloader_load(int input_fd, struct elfloader_output *output)
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:260: warning: The following parameters of elfloader_load(int input_fd, struct elfloader_output *output) are not documented:
+  parameter 'input_fd'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:216: warning: argument 'input' of command @param is not found in the argument list of elfloader_segment_offset(struct elfloader_output *output)
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:216: warning: The following parameters of elfloader_segment_offset(struct elfloader_output *output) are not documented:
+  parameter 'output'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:185: warning: argument 'input' of command @param is not found in the argument list of elfloader_start_segment(struct elfloader_output *output, unsigned int type, void *addr, int size)
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:185: warning: The following parameters of elfloader_start_segment(struct elfloader_output *output, unsigned int type, void *addr, int size) are not documented:
+  parameter 'output'
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:205: warning: argument 'input' of command @param is not found in the argument list of elfloader_write_segment(struct elfloader_output *output, const char *buf, unsigned int len)
+/cygdrive/e/share/contiki/cpu/arm/at91sam7s/loader/elfloader-otf.h:205: warning: The following parameters of elfloader_write_segment(struct elfloader_output *output, const char *buf, unsigned int len) are not documented:
+  parameter 'output'
+/cygdrive/e/share/contiki/core/net/uip.h:1073: warning: argument 'addr' of command @param is not found in the argument list of uip_ipaddr_mask(dest, src, mask)
+/cygdrive/e/share/contiki/core/net/uip.h:1073: warning: argument 'netaddr' of command @param is not found in the argument list of uip_ipaddr_mask(dest, src, mask)
+/cygdrive/e/share/contiki/core/net/uip.h:1073: warning: argument 'netmask' of command @param is not found in the argument list of uip_ipaddr_mask(dest, src, mask)
+/cygdrive/e/share/contiki/core/net/rime/announcement.h:131: warning: The following parameters of announcement_set_value(struct announcement *a, uint16_t value) are not documented:
+  parameter 'value'
+/cygdrive/e/share/contiki/core/net/rime/ipolite.h:155: warning: unexpected token TK_EOF as the argument of ref
+/cygdrive/e/share/contiki/core/net/rime/polite.h:150: warning: unexpected token TK_EOF as the argument of ref
+/cygdrive/e/share/contiki/core/sys/compower.h:127: warning: unable to resolve reference to `packetbufattr' for \ref command
+/cygdrive/e/share/contiki/core/sys/compower.h:117: warning: unable to resolve reference to `packetbufattr' for \ref command
+/cygdrive/e/share/contiki/core/sys/dsc.h:98: warning: argument 'initfunc' of command @param is not found in the argument list of DSC(dscname, description, prgname, process, icon)
+/cygdrive/e/share/contiki/core/sys/dsc.h:98: warning: The following parameters of DSC(dscname, description, prgname, process, icon) are not documented:
+  parameter 'process'
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:572: warning: argument 'rx_callback' of command @param is not found in the argument list of hal_frame_read(hal_rx_frame_t *rx_frame)
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:801: warning: argument 'address' of command @param is not found in the argument list of RADIO_VECT(void)
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:801: warning: argument 'length' of command @param is not found in the argument list of RADIO_VECT(void)
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:801: warning: argument 'data' of command @param is not found in the argument list of RADIO_VECT(void)
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:801: warning: argument 'address' of command @param is not found in the argument list of RADIO_VECT(void)
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:801: warning: argument 'length' of command @param is not found in the argument list of RADIO_VECT(void)
+/cygdrive/e/share/contiki/cpu/avr/radio/rf230bb/halbb.c:801: warning: argument 'data' of command @param is not found in the argument list of RADIO_VECT(void)
+/cygdrive/e/share/contiki/platform/avr-ravenlcd/raven3290.c:4: warning: image file raven3290p.jpg is not found in IMAGE_PATH: assuming external image.
+/cygdrive/e/share/contiki/platform/cooja/dev/rs232.h:95: warning: argument 'str' of command @param is not found in the argument list of rs232_print(char *text)
+/cygdrive/e/share/contiki/platform/cooja/dev/rs232.h:95: warning: The following parameters of rs232_print(char *text) are not documented:
+  parameter 'text'
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:12: warning: unable to resolve reference to `sensors_event' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:17: warning: unable to resolve reference to `SENSORS_ACTIVATE(button_sensor)' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:18: warning: unable to resolve reference to `button_sensor.value(0)' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:22: warning: unable to resolve reference to `battery_sensor' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:23: warning: unable to resolve reference to `button_sensor' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:24: warning: unable to resolve reference to `pir_sensor' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:25: warning: unable to resolve reference to `radio_sensor' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:26: warning: unable to resolve reference to `sound_sensor' for \ref command
+/cygdrive/e/share/contiki/platform/esb/doc/quickref.txt:28: warning: unable to resolve reference to `vib_sensor' for \ref command
+/cygdrive/e/share/contiki/platform/msb430/doc/msb430.txt:20: warning: Unsupported xml/html tag <file> found
+/cygdrive/e/share/contiki/platform/msb430/doc/msb430.txt:21: warning: Unsupported xml/html tag <file> found
+/cygdrive/e/share/contiki/platform/msb430/doc/msb430.txt:22: warning: Unsupported xml/html tag <file> found
+/cygdrive/e/share/contiki/platform/msb430/doc/msb430.txt:29: warning: Unsupported xml/html tag <program> found
+/cygdrive/e/share/contiki/platform/msb430/doc/msb430.txt:33: warning: Unsupported xml/html tag <parallell> found
+/cygdrive/e/share/contiki/platform/msb430/doc/msb430.txt:33: warning: Unsupported xml/html tag <ihex> found
+/cygdrive/e/share/contiki/doc/build-system.txt:2: warning: End of list marker found without any preceding list items
+/cygdrive/e/share/contiki/doc/build-system.txt:2: warning: End of list marker found without any preceding list items
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:96: warning: explicit link request to 'uip_netif_addr_autoconf_set' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:96: warning: explicit link request to 'uip' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:105: warning: explicit link request to 'input' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:106: warning: explicit link request to 'output' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:117: warning: explicit link request to 'input' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:119: warning: explicit link request to 'output' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:123: warning: explicit link request to 'output' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:129: warning: explicit link request to 'input' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:497: warning: explicit link request to 'uip_buf' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:491: warning: explicit link request to 'input' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:494: warning: explicit link request to 'uncompress_hdr_hc1' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:494: warning: explicit link request to 'uncompress_hdr_hc01' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:499: warning: explicit link request to 'compress_hdr_hc1' could not be resolved
+/cygdrive/e/share/contiki/doc/sicslowpan-doc.txt:499: warning: explicit link request to 'compress_hdr_hc01' could not be resolved
+/cygdrive/e/share/contiki/core/net/sicslowpan.h:233: warning: Unsupported xml/html tag <PREFIX> found
+/cygdrive/e/share/contiki/doc/tutorial-raven.txt:408: warning: Found unknown command `\avr'
+/cygdrive/e/share/contiki/core/net/uip.h:1806: warning: unable to resolve reference to `uip_buf' for \ref command
+/cygdrive/e/share/contiki/core/net/uip.h:1806: warning: unable to resolve reference to `uip_buf' for \ref command
+/cygdrive/e/share/contiki/core/net/uip.h:1807: warning: unable to resolve reference to `uip_buf' for \ref command
+/cygdrive/e/share/contiki/core/net/uip.h:1806: warning: unable to resolve reference to `uip_buf' for \ref command
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:64: warning: explicit link request to 'UIP_CONF_REASSEMBLY' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:78: warning: explicit link request to 'uip_netif' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:80: warning: explicit link request to 'UIP_NETIF_MAX_ADDRESSES' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:19: warning: explicit link request to 'tcpip_ipv6_output' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:28: warning: explicit link request to 'tcpip_ipv6_output' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:32: warning: explicit link request to 'uip_nd6_io_ra_input' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:39: warning: explicit link request to 'uip_netif_dad' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:42: warning: explicit link request to 'uip_netif_addr_add' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:43: warning: explicit link request to 'uip_netif_get_interface_id' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:50: warning: explicit link request to 'UIP_ND6_MAX_RTR_SOLICITATIONS' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:53: warning: explicit link request to 'uip_netif_init' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:76: warning: explicit link request to 'uip_nd6_timer_periodic' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:78: warning: explicit link request to 'uip_netif_timer_dad' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:80: warning: explicit link request to 'uip_netif_timer_rs' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:82: warning: explicit link request to 'uip_netif_timer_periodic' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:84: warning: explicit link request to 'uip_reass_timer' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:88: warning: explicit link request to 'uip_nd6_timer_periodic' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:88: warning: explicit link request to 'uip_netif_timer_periodic' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:115: warning: unable to resolve reference to `reass' for \ref command
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:119: warning: explicit link request to 'UIP_CONF_QUEUE_PKT' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:122: warning: explicit link request to 'UIP_ND6_MAX_NEIGHBORS' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:158: warning: explicit link request to 'UIP_LLADDR_LEN' could not be resolved
+/cygdrive/e/share/contiki/doc/uip6-doc.txt:345: warning: explicit link request to 'UIP_LL_802154' could not be resolved
+/cygdrive/e/share/contiki/core/net/uip-icmp6.h:116: warning: The following parameters of uip_icmp6_error_output(u8_t type, u8_t code, u32_t param) are not documented:
+  parameter 'param'
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:338: warning: unable to resolve reference to `Transmit' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:336: warning: unable to resolve reference to `Ethernet' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:335: warning: unable to resolve reference to `Early' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:334: warning: unable to resolve reference to `PHY' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:341: warning: unable to resolve reference to `Receive' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:337: warning: unable to resolve reference to `Receive' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:340: warning: unable to resolve reference to `Transmit' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:339: warning: unable to resolve reference to `Transmitter' for \ref command
+/cygdrive/e/share/contiki/cpu/avr/dev/lanc111.c:289: warning: unable to resolve reference to `MMU_ALO' for \ref command
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/error-def.h:9: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/error-def.h:9: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/error.h:27: warning: explicit link request to 'ST_CONNECTION_OPEN' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/adc.h:14: warning: explicit link request to 'halInternalInitAdc()' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/adc.h:26: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/adc.h:27: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:189: warning: explicit link request to 'SLEEPMODE_WAKETIMER' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/micro-common.h:121: warning: argument 'panID' of command @param is not found in the argument list of halBootloaderStart(int8u mode, int8u channel, int16u panId)
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/micro-common.h:121: warning: The following parameters of halBootloaderStart(int8u mode, int8u channel, int16u panId) are not documented:
+  parameter 'panId'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:189: warning: explicit link request to 'SLEEPMODE_WAKETIMER' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:189: warning: explicit link request to 'ST_SUCCESS' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:192: warning: explicit link request to 'ST_SLEEP_INTERRUPTED' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:201: warning: Found unknown command `\nostackusage'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:204: warning: explicit link request to 'SLEEPMODE_WAKETIMER' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/micro-common.h:183: warning: explicit link request to 'SleepModes' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/system-timer.h:64: warning: Found unknown command `\nostackusage'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/system-timer.h:53: warning: Found unknown command `\nostackusage'
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/flash.h:111: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/flash.h:59: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/cpu/stm32w108/hal/micro/cortexm3/flash.h:91: warning: explicit link request to 'StStatus' could not be resolved
+/cygdrive/e/share/contiki/core/net/packetqueue.h:79: warning: unable to resolve reference to `queuebuf' for \ref command

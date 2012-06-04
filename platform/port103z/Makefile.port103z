@@ -1,0 +1,12 @@
+CONTIKI_TARGET_DIRS = . ./driver
+# Master clock frequency
+MCK=72000000
+CFLAGS+=-DAUTOSTART_ENABLE
+
+CONTIKI_TARGET_MAIN = contiki-main.c
+CONTIKI_TARGET_DRIVER = spi-arch.c enc28j60.c ethernet-drv.c cc2520.c
+
+CONTIKI_TARGET_SOURCEFILES += $(CONTIKI_TARGET_MAIN) $(CONTIKI_TARGET_DRIVER)
+
+include $(CONTIKI)/cpu/arm/stm32f103/Makefile.stm32f103
+
